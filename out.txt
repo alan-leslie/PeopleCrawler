@@ -1,0 +1,476 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>John Byrne (playwright) - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+<link rel="canonical" href="/wiki/John_Byrne_(playwright)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "John_Byrne_(playwright)", "wgTitle": "John Byrne (playwright)", "wgCurRevisionId": 467995368, "wgArticleId": 1132897, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Persondata templates without short description parameter", "1940 births", "Living people", "Contemporary painters", "Alumni of the Glasgow School of Art", "People from Paisley", "People from Renfrewshire", "Scottish dramatists and playwrights", "Scottish painters", "Scottish scenic designers", "People educated at St Mirin\'s Academy"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "de27fe82521ba99bda630f9bf7ea6e6f", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEmailEnabled": true, "mbUserEmail": false, "mbIsEmailConfirmationPending": false, "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-John_Byrne_playwright action-view skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">John Byrne (playwright)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=John_Byrne_(Scottish_playwright)&amp;redirect=no" title="John Byrne (Scottish playwright)">John Byrne (Scottish playwright)</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" cellspacing="5" style="width:22em;">
+<tr>
+<th colspan="2" class="fn" style="text-align:center; font-size:125%; font-weight:bold;">John Byrne</th>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Born</th>
+<td class="" style="">6 January 1940 <span style="display:none">(<span class="bday">1940-01-06</span>)</span> <span class="noprint">(age&#160;72)</span><br />
+<a href="/wiki/Paisley" title="Paisley">Paisley</a>, Scotland</td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Occupation</th>
+<td class="role" style="">Playwright/<a href="/wiki/Artist" title="Artist">Artist</a></td>
+</tr>
+</table>
+<p><b>John Byrne</b> (born 6 January 1940) is a Scottish playwright and <a href="/wiki/Artist" title="Artist">artist</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life"><span class="tocnumber">1</span> <span class="toctext">Life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Works"><span class="tocnumber">2</span> <span class="toctext">Works</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Theatre"><span class="tocnumber">2.1</span> <span class="toctext">Theatre</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Television"><span class="tocnumber">2.2</span> <span class="toctext">Television</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Art"><span class="tocnumber">2.3</span> <span class="toctext">Art</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit&amp;section=1" title="Edit section: Life">edit</a>]</span> <span class="mw-headline" id="Life">Life</span></h2>
+<p>John Byrne was born in <a href="/wiki/Paisley" title="Paisley">Paisley</a>, <a href="/wiki/Renfrewshire" title="Renfrewshire">Renfrewshire</a> where he grew up in the <a href="/wiki/Ferguslie_Park" title="Ferguslie Park">Ferguslie Park</a> housing scheme and educated at the town's <a href="/wiki/St_Mirin%27s_Academy" title="St Mirin's Academy">St Mirin's Academy</a> before attending <a href="/wiki/Glasgow_School_of_Art" title="Glasgow School of Art">Glasgow School of Art</a> from 1958 to 1963. Byrne has received several Honorary Doctorates: in 1997 he was presented with an Honorary Doctorate from the <a href="/wiki/University_of_Paisley" title="University of Paisley" class="mw-redirect">University of Paisley</a>, in 2004 he was made an associate of the <a href="/wiki/Royal_Scottish_Academy" title="Royal Scottish Academy">Royal Scottish Academy</a>, in 2006 he was presented with an Honorary Doctorate from the <a href="/wiki/Robert_Gordon_University" title="Robert Gordon University">Robert Gordon University</a> <a href="/wiki/Gray%27s_School_of_Art" title="Gray's School of Art">Gray's School of Art</a> in <a href="/wiki/Aberdeen" title="Aberdeen">Aberdeen</a> and in 2011 he received an Honorary Doctorate from the <a href="/wiki/University_of_Dundee" title="University of Dundee">University of Dundee</a>.</p>
+<p>He currently lives in <a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a> with his children, twins Xavier and Honor, close to their mother, <a href="/wiki/Academy_Award" title="Academy Award">Academy Award</a> winning actress <a href="/wiki/Tilda_Swinton" title="Tilda Swinton">Tilda Swinton</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit&amp;section=2" title="Edit section: Works">edit</a>]</span> <span class="mw-headline" id="Works">Works</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit&amp;section=3" title="Edit section: Theatre">edit</a>]</span> <span class="mw-headline" id="Theatre">Theatre</span></h3>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th>Year</th>
+<th>Title</th>
+<th>Additional information</th>
+</tr>
+<tr>
+<td>1977</td>
+<td><i>Writer's Cramp</i></td>
+<td>A short radio play about the life and hard times of 'Francis Seneca McDade', a Scottish writer-painter and Paisley's answer to McGonagall, became an <a href="/wiki/Edinburgh_Festival_Fringe" title="Edinburgh Festival Fringe">Edinburgh Festival Fringe</a> hit which transferred to the <a href="/wiki/Bush_Theatre" title="Bush Theatre">Bush Theatre</a> in 1977 and was revived at <a href="/wiki/Hampstead_Theatre" title="Hampstead Theatre">Hampstead Theatre</a>, starring <a href="/wiki/Bill_Paterson" title="Bill Paterson" class="mw-redirect">Bill Paterson</a> in August 1980.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>1979</td>
+<td><i>The Loveliest Night of the Year</i></td>
+<td></td>
+</tr>
+<tr>
+<td>1979</td>
+<td><i>Normal Service</i></td>
+<td>The play was commissioned by Hampstead Theatre and received its first production in March 1979.</td>
+</tr>
+<tr>
+<td>1979-80</td>
+<td><i>Hooray for Hollywood</i></td>
+<td></td>
+</tr>
+<tr>
+<td>1980</td>
+<td><i>Babes in the Wood</i></td>
+<td></td>
+</tr>
+<tr>
+<td>1981</td>
+<td><i>Cara Coco</i></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">1978–1982</td>
+<td><i><a href="/wiki/The_Slab_Boys_Trilogy#The_Slab_Boys" title="The Slab Boys Trilogy">The Slab Boys</a></i> (1978)</td>
+<td rowspan="3">Together they make up <a href="/wiki/The_Slab_Boys_Trilogy" title="The Slab Boys Trilogy">The Slab Boys Trilogy</a></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_Slab_Boys_Trilogy#Cuttin.27_a_Rug" title="The Slab Boys Trilogy">Cuttin' a Rug</a></i> (1979), revised as <i>Threads</i> (March 1980)</td>
+</tr>
+<tr>
+<td><i><a href="/wiki/The_Slab_Boys_Trilogy#Still_Life" title="The Slab Boys Trilogy">Still Life</a></i> (1982)</td>
+</tr>
+<tr>
+<td>1984</td>
+<td><i>Candy Kisses</i></td>
+<td>Premiered at the Bush Theatre on 2 May 1984, <a href="/wiki/Carmen_du_Sautoy" title="Carmen du Sautoy">Carmen du Sautoy</a> played Bobby, a sweet Brooklyn bitch, with <a href="/wiki/John_Sessions" title="John Sessions">John Sessions</a> as Larry, her draft-dodging LA lover, frantically beefing up their Italian in a Florentine <i>pensione</i> in November 1963, against a backdrop of several failed assassination attempts on Pope Paul VI (with historic ineffectuality).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>1985</td>
+<td><i>London Cuckolds</i></td>
+<td></td>
+</tr>
+<tr>
+<td>1992</td>
+<td><i>Colquhoun and MacBryde</i></td>
+<td>Two gay Scottish painters, graduates of the <a href="/wiki/Glasgow_School_of_Art" title="Glasgow School of Art">Glasgow School of Art</a>, <a href="/wiki/Robert_Colquhoun" title="Robert Colquhoun">Robert Colquhoun</a> (1914–62) and <a href="/wiki/Robert_MacBryde" title="Robert MacBryde">Robert MacBryde</a> (1915–66) in 1941 took on the London establishment in <a href="/wiki/Soho" title="Soho">Soho</a>, <a href="/wiki/Cork_Street" title="Cork Street" class="mw-redirect">Cork Street</a> and the pages of <a href="/wiki/Picture_Post" title="Picture Post">Picture Post</a>; Byrne's biographical burlesque was staged by <a href="/wiki/Lindsay_Posner" title="Lindsay Posner">Lindsay Posner</a> at the <a href="/wiki/Royal_Court_Theatre" title="Royal Court Theatre">Royal Court</a> in September 1992 to mixed reviews.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>1997</td>
+<td><i>The Government Inspector</i></td>
+<td></td>
+</tr>
+<tr>
+<td>2004</td>
+<td><i>Uncle Varick</i></td>
+<td>A comedic adaptation of the <a href="/wiki/Anton_Chekhov" title="Anton Chekhov">Anton Chekhov</a> play <i><a href="/wiki/Uncle_Vanya" title="Uncle Vanya">Uncle Vanya</a></i></td>
+</tr>
+<tr>
+<td>2004</td>
+<td><i>Tutti Frutti</i></td>
+<td>An adaptation of the <a href="/wiki/Tutti_Frutti_(1987_TV_series)" title="Tutti Frutti (1987 TV series)">TV Series</a></td>
+</tr>
+<tr>
+<td>2008</td>
+<td><i>Nova Scotia</i></td>
+<td>The fourth play in the Slab Boys story</td>
+</tr>
+<tr>
+<td>2010</td>
+<td><i>The Cherry Orchard</i></td>
+<td>Chekhov's <i><a href="/wiki/The_Cherry_Orchard" title="The Cherry Orchard">The Cherry Orchard</a></i> in a new Scottish version by John Byrne, premiered at the <a href="/wiki/Royal_Lyceum_Theatre" title="Royal Lyceum Theatre">Royal Lyceum Theatre</a> in Edinburgh from 16 April to 8 May. A social comedy in which a grand Scottish family finds its home and estate threatened by property developers and the modern world.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit&amp;section=4" title="Edit section: Television">edit</a>]</span> <span class="mw-headline" id="Television">Television</span></h3>
+<p>Byrne is best known as the writer of <i><a href="/wiki/Tutti_Frutti_(1987_TV_series)" title="Tutti Frutti (1987 TV series)">Tutti Frutti</a></i>, a 1987 television series starring <a href="/wiki/Robbie_Coltrane" title="Robbie Coltrane">Robbie Coltrane</a>, <a href="/wiki/Emma_Thompson" title="Emma Thompson">Emma Thompson</a>, and <a href="/wiki/Richard_Wilson_(Scottish_actor)" title="Richard Wilson (Scottish actor)">Richard Wilson</a>, which he later turned into a play.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> He also wrote the six-part series <i>Your Cheatin' Heart</i> in 1990.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit&amp;section=5" title="Edit section: Art">edit</a>]</span> <span class="mw-headline" id="Art">Art</span></h3>
+<p>From 1964 until 1966 he designed <a href="/wiki/Dust_jacket" title="Dust jacket">jackets</a> for <a href="/wiki/Penguin_Books" title="Penguin Books">Penguin Books</a>. Following unsuccessful experiences with London galleries he released (through London’s Portal Gallery) a series of works from 1967 under the pseudonym of "Patrick" he claimed were created by his father, an alleged self-taught painter of <i><a href="//en.wiktionary.org/wiki/faux-na%C3%AFf" class="extiw" title="wiktionary:faux-naïf">faux-naïf</a></i> images.<sup id="cite_ref-Byrne_biography_5-0" class="reference"><a href="#cite_note-Byrne_biography-5"><span>[</span>6<span>]</span></a></sup> These works began to meet with some success and his painting career commenced.</p>
+<p>As well as designing the settings for his own plays Byrne, in collaboration with director <a href="/w/index.php?title=Robin_Lefrevre&amp;action=edit&amp;redlink=1" class="new" title="Robin Lefrevre (page does not exist)">Robin Lefrevre</a>, also designed the settings for <a href="/wiki/Snoo_Wilson" title="Snoo Wilson">Snoo Wilson</a>'s <i>The Number of the Beast</i> (Bush 1982) and <a href="/wiki/Clifford_Odets" title="Clifford Odets">Clifford Odets</a>' <a href="/wiki/The_Country_Girl" title="The Country Girl">The Country Girl</a> (<a href="/wiki/Apollo_Theatre" title="Apollo Theatre">Apollo Theatre</a> 1983).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>Byrne has also designed record covers for <a href="/wiki/Donovan" title="Donovan">Donovan</a>, <a href="/wiki/The_Beatles" title="The Beatles">The Beatles</a>, <a href="/wiki/Gerry_Rafferty" title="Gerry Rafferty">Gerry Rafferty</a> and <a href="/wiki/Billy_Connolly" title="Billy Connolly">Billy Connolly</a>. Singer-songwriter Rafferty's song <i>Patrick</i> is written about Byrne (the lyrics begin: "Patrick my primitive painter of art/You will always and ever be near to my heart"), and the pair co-wrote several songs together.</p>
+<p>He illustrated <i>Selected Stories</i> by <a href="/wiki/James_Kelman" title="James Kelman">James Kelman</a>, winner of the 1994 <a href="/wiki/Booker_Prize" title="Booker Prize" class="mw-redirect">Booker Prize</a>. His work is held in major collections in Scotland and abroad. Several of his paintings hang in The <a href="/wiki/Scottish_National_Portrait_Gallery" title="Scottish National Portrait Gallery">Scottish National Portrait Gallery</a> in <a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a>, including portraits of <a href="/wiki/Robbie_Coltrane" title="Robbie Coltrane">Robbie Coltrane</a>, <a href="/wiki/Billy_Connolly" title="Billy Connolly">Billy Connolly</a>, <a href="/wiki/Tilda_Swinton" title="Tilda Swinton">Tilda Swinton</a> (the mother of his children), and a self-portrait.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ol class="references">
+<li id="cite_note-0"><b><a href="#cite_ref-0">^</a></b> Hampstead Theatre programme, 7 August 1979</li>
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> John Thaxter review for Richmond &amp; Twickenham Times, 11 May 1984</li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <a href="/wiki/Theatre_Record" title="Theatre Record">Theatre Record</a> Volume Xii, 1992</li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <a rel="nofollow" class="external text" href="http://www.scotsman.com/performing-arts/Theatre-reviews-The-Cherry-OrchardThe.6244431.jp">The Scotsman theatre review</a></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> "<a rel="nofollow" class="external text" href="http://www.nationaltheatrescotland.com/content/default.asp?page=s224">JOHN BYRNE Q &amp; A</a>". National Theatre of Scotland website. Retrieved on 5 February 2010.</li>
+<li id="cite_note-Byrne_biography-5"><b><a href="#cite_ref-Byrne_biography_5-0">^</a></b> "<a rel="nofollow" class="external text" href="http://www.portal-gallery.com/store/main_unlinked.aspx?link=true&amp;sid=30%7Ctitle=">Byrne biography</a>". Portal Gallery. Retrieved on 5 February 2010.</li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> Bush Theatre programme notes for <i>Candy Kisses</i>, May 1984</li>
+</ol>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<h2><span class="editsection">[<a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://johnbyrneart.com/">Unofficial website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nationalgalleries.org/collection/online_az/4:322/?initial=B&amp;artistId=8380&amp;artistName=John%20Byrne&amp;submit=1">Works in the National Galleries of Scotland</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.paisley.org.uk/famous-people/john-byrne/">Brief biography on paisley.org.uk</a></li>
+<li><a rel="nofollow" class="external text" href="http://textualities.net/jennie-renton/a-conversation-with-john-byrne">John Byrne interviewed in 2008 by Jennie Renton</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nationaltheatrescotland.com/content/default.asp?page=s224">Interview with the National Theatre of Scotland</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.guardian.co.uk/stage/2008/apr/28/theatre">Interview with The Guardian</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0126206/">John Byrne</a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.discogs.com/artist/Patrick+%283%29">Patrick</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+</ul>
+<table id="persondata" class="persondata" style="border:1px solid #aaa; display:none; speak:none;">
+<tr>
+<th colspan="2"><a href="/wiki/Wikipedia:Persondata" title="Wikipedia:Persondata">Persondata</a></th>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Name</td>
+<td>Byrne, John</td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Alternative names</td>
+<td></td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Short description</td>
+<td></td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Date of birth</td>
+<td>6 January 1940</td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Place of birth</td>
+<td><a href="/wiki/Paisley" title="Paisley">Paisley</a>, Scotland</td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Date of death</td>
+<td></td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Place of death</td>
+<td></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 2284/1000000
+Post-expand include size: 4592/2048000 bytes
+Template argument size: 1544/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1132897-0!*!0!!en!*!* and timestamp 20120125153501 generated by mw14 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=John_Byrne_(playwright)&amp;oldid=467995368">http://en.wikipedia.org/w/index.php?title=John_Byrne_(playwright)&amp;oldid=467995368</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:1940_births" title="Category:1940 births">1940 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Contemporary_painters" title="Category:Contemporary painters">Contemporary painters</a></li><li><a href="/wiki/Category:Alumni_of_the_Glasgow_School_of_Art" title="Category:Alumni of the Glasgow School of Art">Alumni of the Glasgow School of Art</a></li><li><a href="/wiki/Category:People_from_Paisley" title="Category:People from Paisley">People from Paisley</a></li><li><a href="/wiki/Category:People_from_Renfrewshire" title="Category:People from Renfrewshire">People from Renfrewshire</a></li><li><a href="/wiki/Category:Scottish_dramatists_and_playwrights" title="Category:Scottish dramatists and playwrights">Scottish dramatists and playwrights</a></li><li><a href="/wiki/Category:Scottish_painters" title="Category:Scottish painters">Scottish painters</a></li><li><a href="/wiki/Category:Scottish_scenic_designers" title="Category:Scottish scenic designers">Scottish scenic designers</a></li><li><a href="/wiki/Category:People_educated_at_St_Mirin%27s_Academy" title="Category:People educated at St Mirin's Academy">People educated at St Mirin's Academy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Persondata_templates_without_short_description_parameter" title="Category:Persondata templates without short description parameter">Persondata templates without short description parameter</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=John+Byrne+%28Scottish+playwright%29" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/John_Byrne_(playwright)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:John_Byrne_(playwright)"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/John_Byrne_(playwright)" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=John_Byrne_(playwright)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button>					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/John_Byrne_(playwright)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/John_Byrne_(playwright)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=John_Byrne_(playwright)&amp;oldid=467995368" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=John_Byrne_(playwright)&amp;id=467995368" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=John+Byrne+%28playwright%29" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=John+Byrne+%28playwright%29&amp;oldid=467995368&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=John_Byrne_(playwright)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/John_Byrne_(artista_escoc%C3%AAs)">Português</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 December 2011 at 23:44.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href='/w/index.php?title=John_Byrne_(Scottish_playwright)&amp;useformat=mobile' class='noprint'>Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup", "ext.articleFeedbackv5.startup", "ext.markAsHelpful"]);
+}
+</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: enwiki:resourceloader:filter:minify-js:4:b41a86ec4e0fe8329bc3ce917e792339 */
+}
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by mw14 in 0.577 secs. -->
+	</body>
+</html>
