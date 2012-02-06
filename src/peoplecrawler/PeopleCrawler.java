@@ -14,9 +14,10 @@ public class PeopleCrawler {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        FetchAndProcessCrawler crawler = new FetchAndProcessCrawler("/home/al/wiki_scots", 2, 2000);
-crawler.addUrl("http://en.wikipedia.org/wiki/Famous_Scots");
-//crawler.addUrl("http://en.wikipedia.org/wiki/James_Hector");
+        FetchAndProcessCrawler crawler = new FetchAndProcessCrawler("/home/al/wiki_scots", 1, 2000);
+//crawler.addUrl("http://en.wikipedia.org/wiki/Famous_Scots");
+crawler.addUrl("http://127.0.0.1/William_Paterson_%28explorer%29.html");
+//        crawler.addUrl("http://en.wikipedia.org/wiki/William_Paterson_%28explorer%29");
 //crawler.addUrl("http://en.wikipedia.org/wiki/James_Hamilton,_2nd_Earl_of_Arran");
 //crawler.addUrl("http://en.wikipedia.org/wiki/List_of_Scottish_musicians");
 //crawler.addUrl("http://en.wikipedia.org/wiki/List_of_Scottish_scientists");

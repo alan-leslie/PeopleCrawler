@@ -1,5 +1,7 @@
 package peoplecrawler.db;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import peoplecrawler.model.Outlink;
 import peoplecrawler.model.ProcessedDocument;
 import peoplecrawler.utils.DocumentIdUtils;
@@ -9,13 +11,16 @@ import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileFilter;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
@@ -177,8 +182,11 @@ public class ProcessedDocsDB {
         File outlinksFile = getOutlinksFile(doc.getDocumentId());
         saveOutlinks(outlinksFile, doc.getOutlinks());
                               
-        File summaryFile = getSummayFile(doc.getDocumentId());
-        saveText(summaryFile, doc.getSummary());
+        File summaryFile = getSummaryFile(doc.getDocumentId());
+//                    OutputStreamWriter w = new OutputStreamWriter(new FileOutputStream(f), "UTF-8");
+//            BufferedWriter bw = new BufferedWriter(w);        
+
+        saveSummary(summaryFile, doc.getSummary());
     }
 
     
@@ -248,9 +256,15 @@ public class ProcessedDocsDB {
     }
     
     private void saveData(File f, byte[] content) {
-        try {
+        try {         
             FileOutputStream fout = new FileOutputStream(f);
             BufferedOutputStream bout = new BufferedOutputStream(fout);
+            
+            // todo need that the byte data is the same as is saved in fetched
+
+//            OutputStreamWriter w = new OutputStreamWriter(new FileOutputStream(f), "UTF-8");
+//            BufferedWriter bout = new BufferedWriter(w);        
+
             bout.write(content);
             bout.flush();
             bout.close();
@@ -397,7 +411,11 @@ public class ProcessedDocsDB {
         return docFile;
     }
     
-    private File getSummayFile(String documentId) {
+    private File getSummaryFile(String documentId) {
         return getDocumentFile(documentId, FileType.SUMMARY);
     }  
+    
+    private void saveSummary(File summaryFile, String summary) {
+        saveData(summaryFile, getBytes(summary));
+    }
 }

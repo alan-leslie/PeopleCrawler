@@ -204,10 +204,11 @@ public class BasicWebCrawler {
                 if(summary != null){
                     parsedDoc.setSummary(theWikiPage.getTableText(summary));
                 } else {
-                    Node firstPara = theWikiPage.getFirstPara();                   
+                    Node firstPara = theWikiPage.getFirstPara();   
                     
                     if(firstPara != null){
-                        parsedDoc.setSummary(firstPara.getTextContent());
+                        String theFirstParaText = WikipediaDetailPage.getParaText(firstPara);
+                        parsedDoc.setSummary(theFirstParaText);
                     }
                 }
                 
