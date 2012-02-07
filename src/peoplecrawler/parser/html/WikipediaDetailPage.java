@@ -139,19 +139,20 @@ public class WikipediaDetailPage {
     }
 
     public static String getParaText(Node n) {
-        String theAsciiText = "";
-        NodeList children = n.getChildNodes();
-        if (children != null) {
-            for (int i = 0; i < children.getLength(); i++) {
-                Node childNode = children.item(i);
-
-                if (childNode.getNodeType() == Node.TEXT_NODE) {
-                    Text txtNode = (Text) childNode;
-                    String theText = txtNode.getNodeValue();
-                    theAsciiText = getAsciiText(theText);
-                }
-            }
-        }
+        String theOriginalText = n.getTextContent();
+        String theAsciiText =  getAsciiText(theOriginalText);;
+//        NodeList children = n.getChildNodes();
+////        if (children != null) {
+//            for (int i = 0; i < children.getLength(); i++) {
+//                Node childNode = children.item(i);
+//
+//                if (childNode.getNodeType() == Node.TEXT_NODE) {
+//                    Text txtNode = (Text) childNode;
+//                    String theText = txtNode.getNodeValue();
+//                    theAsciiText = getAsciiText(theText);
+//                }
+//            }
+////        }
 
         return theAsciiText;
     }
