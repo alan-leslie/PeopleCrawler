@@ -1,0 +1,5 @@
+Specialised version of crawler that attempts to only get info relevant to classify a page as for a person
+Written in java using NetBeans
+Uses: 
+Adapted code from Algorithms of the intelligent web
+

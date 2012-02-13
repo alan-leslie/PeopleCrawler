@@ -15,13 +15,15 @@ public class PeopleCrawler {
      */
     public static void main(String[] args) {
         FetchAndProcessCrawler crawler = new FetchAndProcessCrawler("/home/al/wiki_scots", 2, 2000);
-crawler.addUrl("http://en.wikipedia.org/wiki/Famous_Scots");
+//crawler.addUrl("http://en.wikipedia.org/wiki/Famous_Scots");
 //crawler.addUrl("http://127.0.0.1/William_Paterson_%28explorer%29.html");
 //        crawler.addUrl("http://en.wikipedia.org/wiki/William_Paterson_%28explorer%29");
 //crawler.addUrl("http://en.wikipedia.org/wiki/John_Watson_Gordon");
 //crawler.addUrl("http://en.wikipedia.org/wiki/List_of_Scottish_musicians");
 //crawler.addUrl("http://en.wikipedia.org/wiki/List_of_Scottish_scientists");
-//http://en.wikipedia.org/wiki/List_of_Scottish_actors");
+//crawler.addUrl("http://en.wikipedia.org/wiki/List_of_Scottish_actors");
+crawler.addUrl("http://en.wikipedia.org/wiki/List_of_Scottish_writers");
+
 //crawler.addUrl("http://localhost/bookmarks_adjusted.html");
 //crawler.addUrl("http://lifehacker.com/5835369/how-do-i-securely-wipe-a-computer-before-donating-it-to-charity");
 
